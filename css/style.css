@@ -133,7 +133,7 @@ a:hover {
 
 #home {}
 .banner {
-    background-image: url(../images/profile/banner-image-1.jpg);
+    background-image: url(../images/bg.jpg);
     background-position: center;
     background-size: cover;
 }
